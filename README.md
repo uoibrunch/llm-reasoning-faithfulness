@@ -7,7 +7,7 @@ Directly proving the faithfulness of a Large Language Model's internal reasoning
 
 ## 🛠️ Tech Stack & Evaluated Models
 * **Languages & Tools:** Python, PyTorch, Hugging Face Transformers, Sentence Transformers, Pandas, Scikit-Learn
-* **Evaluated Models:** Llama-3.1-8B-Instruct, Mistral-7B-v0.3, Qwen-2.5-7B-Instruct, Gemini 2.5 Flash
+* **Evaluated Models:** Llama-3-8B-Instruct, Llama-3.1-8B-Instruct, Mistral-7B-Instruct-v0.2, Mistral-7B-Instruct-v0.3, Qwen-2.5-7B-Instruct, Gemini 2.5 Flash
 * **Benchmarks Evaluated:** GSM8K (Arithmetic), StrategyQA (Multi-hop Factual), BBH (Boolean Expressions), e-SNLI (Natural Language Inference)
 
 ## 📂 Repository Structure
