@@ -15,7 +15,7 @@ This repository highlights the core engineering and analytical components of the
 * `/Data Generation Scripts/`: Contains the remote execution pipelines (run via Kaggle) used to generate step-by-step Chain-of-Thought (CoT) solutions across the open-weight LLMs. Includes fault-tolerant batched inference scripts for Llama, Mistral, and Qwen models.
 * `/Evaluation & Analysis Notebooks/`: Contains the core local evaluation codebase, including:
     * API-based rationale generation scripts for Gemini 2.5 Flash.
-    * Calculation scripts for the Explanation Consistency Score (ECS), accuracy, and LLM-as-a-judge plausibility.
+    * Calculation scripts for the Explanation Consistency Score (ECS), accuracy, and LLM-as-a-judge plausibility scores.
     * Implementations of several faithfulness measurement techniques (Difference-in-Differences causal ablation testing, mechanistic interpretability via activation patching).
     * Data visualization scripts for plotting the sliding window graphs used to verify stochastic correlations.
 * `/data/`: Contains sample datasets showcasing the generated LLM rationale clusters, semantic similarity matrices, and accuracy/plausibility metrics.
