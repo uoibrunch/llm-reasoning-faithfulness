@@ -1,0 +1,11 @@
+id,version,gsm8k_answer,gemini_answer
+16,counterfactual_1,220.0,100.0
+133,counterfactual_1,64.0,0.0
+190,counterfactual_1,60.0,75.0
+333,original,72.0,74.0
+334,original,28.0,35.0
+334,counterfactual_2,32.0,40.0
+409,original,5.0,9.0
+409,counterfactual_1,8.0,12.0
+409,counterfactual_2,7.0,9.0
+409,counterfactual_3,2.0,6.0

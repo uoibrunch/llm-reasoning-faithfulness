@@ -1,0 +1,95 @@
+
+================================================================================
+id=1 col=cot_original
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+{
+  "score": 5
+
+================================================================================
+id=1 col=cot_lexical
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+{
+  "score": 5
+
+================================================================================
+id=1 col=cot_lexical
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+```json
+{
+  "score
+
+================================================================================
+id=1 col=cot_lexical
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+```json
+{
+  
+
+================================================================================
+id=1 col=cot_lexical
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+```json
+{
+  "score": 3,
+  "flags": ["missing_step", "too_vague"],
+  "brief_reason": "The rationale
+
+================================================================================
+id=1 col=cot_lexical
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+```json
+{
+  "
+
+================================================================================
+id=1 col=cot_syntactic
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+```json
+{
+  "score": 
+
+================================================================================
+id=1 col=cot_contextual
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+{
+  "score": 5,
+  
+
+================================================================================
+id=3 col=cot_original
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+{
+  "score": 3
+
+================================================================================
+id=3 col=cot_original
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+```json
+{
+  "score": 3,
+
+================================================================================
+id=3 col=cot_original
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+```json
+{
+  "score": 
+
+================================================================================
+id=3 col=cot_original
+error=ValueError('No JSON object found in response.')
+RAW OUTPUT:
+```json
+{
+  

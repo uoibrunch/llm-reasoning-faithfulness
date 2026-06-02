@@ -1,0 +1,84 @@
+id,variant,reason,broken_text_snippet
+6,original,Broken Syntax / Nested Equation,"e the values into the formula:**
+    a_6 = 80 + (6 - 1 = 6)."
+6,lexical,Broken Syntax / Nested Equation,"
+    For the sixth year ($n=6$):
+    $F_6 = F_1 + (6-1 = 6)."
+26,contextual,Broken Syntax / Nested Equation," of oil = (2/3) * 150 ml
+Volume of oil = 2 * (150 / 3 = 51)."
+43,syntactic,Broken Syntax / Nested Equation," skirts in Seafoam Valley = (2/3) * 60
+    = (2 * 60 = 121)."
+43,contextual,Broken Syntax / Nested Equation,"60
+    Number of skirts for Seafoam Valley = (2 * 60 = 121)."
+54,syntactic,Broken Syntax / Nested Equation,"tract 11 from both sides of the equation:
+2L = 35 - 11 = 25."
+65,original,Broken Syntax / Nested Equation,"n 2:
+(L + 4) + L = 34
+
+Combine the L terms:
+2L + 4 = 34 = 3."
+65,lexical,Broken Syntax / Nested Equation,"n 2:
+(L + 4) + L = 34
+
+Combine the L terms:
+2L + 4 = 34 = 3."
+80,original,Broken Syntax / Nested Equation,"om the right side of the equation:
+R = W * (1 + 0.80 = 2.8)."
+80,lexical,Broken Syntax / Nested Equation,"om the right side of the equation:
+R = C * (1 + 0.80 = 2.8)."
+80,syntactic,Broken Syntax / Nested Equation,"om the right side of the equation:
+R = W * (1 + 0.80 = 2.8)."
+80,contextual,Broken Syntax / Nested Equation,"om the right side of the equation:
+S = W * (1 + 0.80 = 2.8)."
+109,lexical,Broken Syntax / Nested Equation," the terms involving L:
+2L + L + L + 2 = 50
+4L + 2 = 50 = 5."
+109,syntactic,Broken Syntax / Nested Equation," = 50
+
+Now, combine the terms involving L:
+(L + 2L + L = 5)."
+142,syntactic,Broken Syntax / Nested Equation,"d fish = 20% of 400
+    Number of bad fish = (20/100 = 1.2)."
+168,syntactic,Broken Syntax / Nested Equation," One 20-foot rope
+    *   Three 2-foot ropes (2 + 2 + 2 = 7 "
+168,contextual,Broken Syntax / Nested Equation,"*   One 20 ft rope
+*   Three 2-ft ropes (which is 3 * 2 = 7 "
+189,lexical,Broken Syntax / Nested Equation,"rs = 45% of 200
+Number of Biff supporters = (45/100 = 1.45)."
+189,syntactic,Broken Syntax / Nested Equation,"ge undecided)
+Percentage for Marty = 100% - (45% + 8% = 54)."
+202,original,Broken Syntax / Nested Equation,"ters * 20%
+    Volume of salt = 2 liters * (20 / 100 = 1.2)."
+202,lexical,Broken Syntax / Nested Equation,"liters * 20%
+    Volume of salt = 2 liters * (20/100 = 1.2)."
+220,lexical,Broken Syntax / Nested Equation," = (2/5) * 600
+    Cookies Nicole ate = 2 * (600 / 5 = 121)."
+232,lexical,Broken Syntax / Nested Equation,"arbles given = 40% of 60
+    Marbles given = (40/100 = 1.4)."
+238,original,Broken Syntax / Nested Equation,"ike terms on the left side of the equation:
+(1 + 2 + 3 = 7)."
+239,original,Broken Syntax / Nested Equation," 300 pounds, convert the percentage to a decimal (250% = 3.5"
+239,lexical,Broken Syntax / Nested Equation,"calculate 250% of 300 pounds:
+250% of 300 = (250/100 = 3.5)."
+250,syntactic,Broken Syntax / Nested Equation,"des of the equation to isolate the term with R.
+16 + 5 = 22."
+262,original,Broken Syntax / Nested Equation,"0.02 * D_morning)
+D_evening = D_morning * (1 - 0.02 = 1.98)."
+302,syntactic,Broken Syntax / Nested Equation,blocks are removed in each round (6 players * 1 block/player
+338,lexical,Broken Syntax / Nested Equation,"n used = (4/5) * 30 days
+    Duration used = (4 * 30 = 121)."
+338,syntactic,Broken Syntax / Nested Equation,"s passed = (4/5) * 30 days
+    Days passed = (4 * 30 = 121)."
+360,syntactic,Broken Syntax / Nested Equation," (3/4) * 40 calories
+    Calories consumed = (3 * 40 = 121)."
+387,lexical,Broken Syntax / Nested Equation,"$n$'s and the constant numbers):
+$(n + n + n) + (1 + 2 = 4)."
+416,contextual,Broken Syntax / Nested Equation,".
+Salary after first promotion = $80,000 * (1 + 0.40 = 2.4)."
+422,original,Broken Syntax / Nested Equation,"ion:
+c + (2c) = 21
+
+Combine the terms with 'c':
+3c = 21 = 4."
+422,lexical,Broken Syntax / Nested Equation,"r C, divide both sides of the equation by 3:
+C = 21 / 3 = 8."

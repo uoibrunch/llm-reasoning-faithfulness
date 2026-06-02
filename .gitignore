@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/strategyQA/llm-reasoning-475315-b0391b898b58.json
+llm-reasoning-475315-b0391b898b58.json
+*llm-reasoning*.json
