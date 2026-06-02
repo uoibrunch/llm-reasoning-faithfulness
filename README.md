@@ -12,10 +12,12 @@ Directly proving the faithfulness of a Large Language Model's internal reasoning
 
 ## 📂 Repository Structure
 This repository highlights the core engineering and analytical components of the research:
-* `/notebooks/`: Contains representative data generation and evaluation pipelines, including:
-    * Fault-tolerant batched inference scripts for Llama, Mistral, and Qwen models.
-    * Mechanistic interpretability scripts featuring layer-wise activation patching.
-    * Difference-in-Differences (DiD) causal ablation testing.
+* `/Data Generation Scripts/`: Contains the remote execution pipelines (run via Kaggle) used to generate step-by-step Chain-of-Thought (CoT) solutions across the open-weight LLMs. Includes fault-tolerant batched inference scripts for Llama, Mistral, and Qwen models.
+* `/Evaluation & Analysis Notebooks/`: Contains the core local evaluation codebase, including:
+    * API-based rationale generation scripts for Gemini 2.5 Flash.
+    * Calculation scripts for the Explanation Consistency Score (ECS), accuracy, and LLM-as-a-judge plausibility.
+    * Implementations of several faithfulness measurement techniques (Difference-in-Differences causal ablation testing, mechanistic interpretability via activation patching).
+    * Data visualization scripts for plotting the sliding window graphs used to verify stochastic correlations.
 * `/data/`: Contains sample datasets showcasing the generated LLM rationale clusters, semantic similarity matrices, and accuracy/plausibility metrics.
 * `paper.pdf`: The full thesis document detailing comprehensive results, ablation studies, and mathematical formulations.
 
